@@ -1,0 +1,21 @@
+{
+    "name": "roman/33-php-mysql-ratchet",
+    "description": "task33messenger",
+    "type": "project",
+    "require": {
+        "cboden/ratchet": "dev-master"
+    },
+    "license": "BSD",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "GrGrGrRoman",
+            "email": "grroman@live.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
